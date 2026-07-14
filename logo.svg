@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="8" fill="#e0e7ff" />
-  <text x="32" y="40" text-anchor="middle" font-size="24" fill="#4338ca">?</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ClickUp</title>
+  <rect width="64" height="64" rx="12" fill="#7B68EE"/>
+  <path d="M13 29 32 12l19 17-6 6-13-12-13 12z" fill="#fff"/>
+  <path d="M18 39c3 8 8 12 14 12s11-4 14-12l7 3c-4 11-11 17-21 17S15 53 11 42z" fill="#fff"/>
 </svg>
